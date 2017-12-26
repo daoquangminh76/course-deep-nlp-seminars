@@ -1,7 +1,4 @@
 # deep-nlp-seminars
-__ATTENTION:__ _Please, do not share your task solutions on GitHub or anywhere else!_
-
-_Also, please do not add your name to your homework, since we try to keep review process anonymous._
 
 Materials for deep NLP course.
 
